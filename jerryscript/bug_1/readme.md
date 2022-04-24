@@ -1,7 +1,9 @@
 
+- for detail about this bug, check : https://zbvs.tistory.com/13?category=1170274
+
 issue: github.com/jerryscript-project/jerryscript/issues/2146
 
-for detail about this bug, check : https://zbvs.tistory.com/13?category=1170274
+
 
 test_version: jerryscript 2017-12-23 
 
