@@ -1,1 +1,1 @@
-- for detail about this bug, check : https://zbvs.tistory.com/13?category=1170274
+- for detail about this bug, check : https://zbvs.tistory.com/17?category=1170696
